@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocialNetworkApp</string>
+    <string name="register">Register</string>
+    <string name="let_s_make_a_post">Let\'s Make a Post</string>
+</resources>
